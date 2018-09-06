@@ -4,4 +4,7 @@ plugins:
   structure:
     enabled: false
   pep8:
-    enabled: true
+    enabled: false
+exclude_patterns:
+- "resources/"
+- "solutions/"
